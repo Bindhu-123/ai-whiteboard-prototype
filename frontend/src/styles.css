@@ -1,0 +1,9 @@
+body{ font-family: Arial, Helvetica, sans-serif; margin:0 }
+.app header{ background:#0f172a; color:white; padding:12px }
+main{ display:flex; gap:12px; padding:12px }
+.left{ flex:2 }
+.right{ flex:1 }
+.canvas{ border:1px solid #ddd; background:#fff }
+.wb-top{ margin-bottom:8px }
+textarea{ width:100% }
+button{ margin-right:8px }
